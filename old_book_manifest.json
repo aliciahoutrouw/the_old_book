@@ -1,0 +1,183 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://7420fca9-6ff8-4ca3-9165-283d07ec38be",
+	"@type": "sc:Manifest",
+	"label": "The Old Book, fol. 10",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Enlarged rubricated capital beginning the chant with numes (left); continuation of chant (right)",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "unknown",
+	"sequences": [
+		{
+			"@id": "http://860aac4b-9869-4cc6-8204-62d73b7c9f68",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://e5e5e73c-3534-4698-b6b9-9dbaa3c7e0d3",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 12416,
+					"width": 16560,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d886191e-4968-4d9d-b12d-fc29a4a1840d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/11704a396245f9e55fb1bceaf0279153407d97f833e6b7fee4699d6d31f4ebfd/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/11704a396245f9e55fb1bceaf0279153407d97f833e6b7fee4699d6d31f4ebfd",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 12416,
+								"width": 16560
+							},
+							"on": "http://e5e5e73c-3534-4698-b6b9-9dbaa3c7e0d3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5d88bf1c-c55d-4bda-a81c-1e85fdb7e7b3",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 12416,
+					"width": 16560,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0747417f-d6f1-498b-a655-2e8868169e3d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/ec3c8ab2a5c45bc7437e20bc068819e2318011a72eae21e2748bad11f801707/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/ec3c8ab2a5c45bc7437e20bc068819e2318011a72eae21e2748bad11f801707",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 12416,
+								"width": 16560
+							},
+							"on": "http://5d88bf1c-c55d-4bda-a81c-1e85fdb7e7b3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6ebd5022-27f6-402d-83f5-b5bc5bfbc3aa",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 12416,
+					"width": 16560,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f3afa3e6-d9fa-4b3f-98e5-0cd8c9832218",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/42b69013ff4c20b99f424f9035ec53099455271565d772730096ac668d7aece8/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/42b69013ff4c20b99f424f9035ec53099455271565d772730096ac668d7aece8",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 12416,
+								"width": 16560
+							},
+							"on": "http://6ebd5022-27f6-402d-83f5-b5bc5bfbc3aa"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"related": {
+		"@id": "theoldbook.org"
+	}
+}
