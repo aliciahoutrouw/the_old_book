@@ -171,6 +171,12 @@
 							"on": "http://6ebd5022-27f6-402d-83f5-b5bc5bfbc3aa"
 						}
 					],
+    "otherContent": [
+            {
+              "@id": "http://localhost:8887/annotation1.json",
+              "@type": "sc:AnnotationList"
+            }
+          ],
 					"related": ""
 				}
 			]
