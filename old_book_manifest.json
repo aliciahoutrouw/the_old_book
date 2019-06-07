@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://7420fca9-6ff8-4ca3-9165-283d07ec38be",
+	"@id": "https://aliciahoutrouw.github.io/the_old_book/old_book_manifest.json",
 	"@type": "sc:Manifest",
 	"label": "The Old Book, fol. 10",
 	"metadata": [],
