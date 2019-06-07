@@ -121,6 +121,13 @@
 							"on": "http://5d88bf1c-c55d-4bda-a81c-1e85fdb7e7b3"
 						}
 					],
+          "otherContent": [
+                  {
+                    "@id": "http://aliciahoutrouw.github.io/the_old_book/annotation2.json",
+                    "@type": "sc:AnnotationList"
+                  }
+                ],
+
 					"related": ""
 				},
 				{
